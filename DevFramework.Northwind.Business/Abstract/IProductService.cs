@@ -14,5 +14,7 @@ namespace DevFramework.Northwind.Business.Abstract
 
         Product Add(Product product);
 
+        Product Update(Product product);
+
     }
 }
